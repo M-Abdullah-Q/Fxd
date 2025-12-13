@@ -1,5 +1,4 @@
 import Experience from "@/components/Experience";
-import ValuesCarousel from "@/components/ValuesCarousel";
 import ToggleSection from "@/components/ToggleSection";
 import { Menu } from "lucide-react";
 import Navbar from "@/components/Navbar";
